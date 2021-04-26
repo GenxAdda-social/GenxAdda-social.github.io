@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2214c0"],{ca6b:function(n,e,c){"use strict";c.r(e);var t=function(){var n=this,e=n.$createElement,c=n._self._c||e;return c("v-container",[c("p",[n._v("Audio call")])])},a=[],l={mounted:function(){document.title="Audio call  - GenxAdda",console.clear()}},o=l,u=c("2877"),i=c("6544"),r=c.n(i),d=c("a523"),s=Object(u["a"])(o,t,a,!1,null,null,null);e["default"]=s.exports;r()(s,{VContainer:d["a"]})}}]);
+//# sourceMappingURL=chunk-2d2214c0.346ce72a.js.map

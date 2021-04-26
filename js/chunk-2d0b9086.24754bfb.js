@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b9086"],{"30e8":function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("v-container",[t("p",[n._v("Video call")])])},l=[],o={mounted:function(){document.title="Video call  - GenxAdda",console.clear()}},a=o,u=t("2877"),i=t("6544"),r=t.n(i),d=t("a523"),s=Object(u["a"])(a,c,l,!1,null,null,null);e["default"]=s.exports;r()(s,{VContainer:d["a"]})}}]);
+//# sourceMappingURL=chunk-2d0b9086.24754bfb.js.map
